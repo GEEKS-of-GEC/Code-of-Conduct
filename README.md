@@ -1,4 +1,4 @@
-# GEEKS-of-GEC code-of-conduct
+# Code-of-Conduct of GEEKS-of-GEC
 
 Welcome to GEEKS-of-GEC, We are a community of tech enthusiasts working hard to spread knowledge and strengthen the collaborative culture among the young minds. GEEKS-of-GEC was born through the convergence of Technical clubs at Gandhi Engineering College, namely, Mozilla Campus Club, Developer Students Club and some aspiring individuals who are keen to share their knowledge for the community.
 
