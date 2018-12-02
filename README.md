@@ -59,4 +59,4 @@ Contact us
   * Chinmay Sarkar - Chairman, GEEKS-of-GEC<br/>
     sarkar.chinmay1908@gmail.com, +919955039814
 
-The GEC - Open-Source Community Code of Conduct is licensed under the [Creative Commons Attribution-Share Alike 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/). Our Code of Conduct was inspired by and borrows content from Codes of Conduct of other open source projects including [Zatech](https://github.com/zatech/code-of-conduct), [Ubuntu](https://www.ubuntu.com/community/code-of-conduct) and the [Elastic community](https://www.elastic.co/community/codeofconduct).
+The GEEKS-of-GEC Community Code of Conduct is licensed under the [Creative Commons Attribution-Share Alike 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/). Our Code of Conduct was inspired by and borrows content from Codes of Conduct of other open source projects including [Zatech](https://github.com/zatech/code-of-conduct), [Ubuntu](https://www.ubuntu.com/community/code-of-conduct) and the [Elastic community](https://www.elastic.co/community/codeofconduct).
